@@ -1,7 +1,7 @@
 import telebot
 from telebot import types
 
-TOKEN = "7311036196:AAFw2rWAtq1-G7_12j1NbzAzqGlrtVRSSfA"
+TOKEN = "7970799449:AAFKCrx_aNlHLcvzA_LY8YQusmk6iL-ceT0"
 
 ADMIN_CHAT_ID = -4692476565
 
